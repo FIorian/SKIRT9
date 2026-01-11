@@ -4,5 +4,4 @@
 *.autosave
 .vs
 CMakeSettings.json
-.helix
-.vscode
+.*
